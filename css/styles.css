@@ -1,6 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Kanit:ital@1&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&family=Kanit:ital@1&display=swap');
 
 
 /* Neste arquivo, faremos TODAS as REGRAS CSS necessários para a formatação do site.   */
@@ -49,4 +47,30 @@ h2{
    font-family: 'Inconsolata', monospace;
    font-size: 26px;
 }
+
+
+nav a{
+
+   text-decoration: none;
+   font-weight: bold;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
